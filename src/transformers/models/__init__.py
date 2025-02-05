@@ -78,8 +78,6 @@ from . import (
     dialogpt,
     diffllama,
     dinat,
-    dinov2,
-    dinov2_with_registers,
     distilbert,
     dit,
     donut,
